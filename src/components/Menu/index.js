@@ -13,7 +13,7 @@ export default function Menu() {
         <AiFillLinkedin size={24} color="FFF" /></a>
       <a href="https://github.com/englishwithpatricia007" target="_blank" rel="noreferrer" className='social'>
         <AiOutlineGithub size={24} color="FFF" /></a>
-      <a href="https://www.youtube.com/@englishwithpatricia2730" target="_blank" rel="noreferrer" className='social'>
+      <a href="https://www.youtube.com/channel/UCBwgnZHX_mwxmFG6p3AoYFQ" target="_blank" rel="noreferrer" className='social'>
         <AiFillYoutube size={24} color="FFF" /></a>
       <a href="https://www.instagram.com/englishwithpatricia007/" target="_blank" rel="noreferrer" className='social'>
         <AiFillInstagram size={24} color="FFF" /></a>
